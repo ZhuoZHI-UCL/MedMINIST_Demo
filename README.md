@@ -13,3 +13,7 @@ Binary/multiple classification using MedMINIST dataset
 * Dataset: MedMINIST-pathmnist (RGB image)
 
 * Model: RandomForestClassifier
+
+## Key points
+* We find that basic models can handle these tasks
+* Feature extraction is important for basic models and we have compared several approaches
