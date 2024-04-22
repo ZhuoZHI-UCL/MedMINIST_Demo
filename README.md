@@ -13,6 +13,7 @@ Binary/multiple classification using MedMINIST dataset
 * Dataset: MedMINIST-pathmnist (RGB image)
 
 * Model: RandomForestClassifier
+![image](https://github.com/ZhuoZHI-UCL/MedMINIST_Demo/assets/101659814/603eca2f-c246-425b-9b5e-0e719783acf9)
 
 ## Key points
 * We find that basic models can handle these tasks
