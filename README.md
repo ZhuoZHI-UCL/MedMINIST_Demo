@@ -6,7 +6,8 @@ Binary/multiple classification using MedMINIST dataset
 * Dataset: MedMINIST-pneumoniamnist (greyscale image)
 
 * Model: RandomForestClassifier
-![Uploading image.png…]()
+![image](https://github.com/ZhuoZHI-UCL/MedMINIST_Demo/assets/101659814/bb751664-87d4-44c8-80a2-d97b9c61430a)
+
 
 ## Multiple classification task by MedMINIST-pathmnist dataset
 * Motivation: exploring whether basic machine learning models can competent in image multiple classification tasks
